@@ -1,4 +1,4 @@
-# vSlam-ResourceSummary
+# Awesome-vSlam-list
 
 ### 导语
 > 一些在学习SLAM的过程中的一些资料与方法（不断更新中...）</br></br>
